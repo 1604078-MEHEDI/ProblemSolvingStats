@@ -15,7 +15,7 @@
 | HackerRank | [misir](https://www.hackerrank.com/misir) | 55 |
 | Kattis | [misir](https://open.kattis.com/users/mehedi-hasan-ankur) | 9 |
 | CS Academy | [misir](https://csacademy.com/user/misir) | 9 |
-| TOKI | [misir](https://tlx.toki.id/profiles/misir) | 8 |
-| Total | | 4667 |
+| TOKI | [misir](https://tlx.toki.id/profiles/misir) | 7 |
+| Total | | 4666 |
 
 Last Updated: 23 Nov, 2021
